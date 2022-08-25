@@ -46,7 +46,9 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
 <!-- *** Change Here Blog Image  -->
+
 ![Project 1: uiproject-1](https://github.com/ani294/UI_HTML_CSS_Project-2/blob/main/2.png)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
@@ -75,7 +77,9 @@ Here's a project learnt and build the project based on HTML5 and CSS3 only
 This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
+
 <!-- *** Change Here Live Link -->
+
 [Live Project URL](https://coderx-ui-projects-2.netlify.app)
 
 <!-- LEARNT -->
@@ -111,8 +115,6 @@ For this project I took around `8 to 10 hours` to complete it. The major portion
 - **Email :** aniruddha.294@gmail.com
 <!-- *** Change Here Live Link -->
 - **Website :** [coderx.netlify.app](https://coderx-ui-projects-2.netlify.app)
-
-Project Link: [link](https://coderx-ui-projects-1.netlify.app)
 
 <!-- BACK TO TOP -->
 
@@ -160,5 +162,6 @@ Project Link: [link](https://coderx-ui-projects-1.netlify.app)
 
 <!-- Project screenshot -->
 <!-- *** Change Here Live Link & Blog image -->
+
 [product-screenshot]: https://github.com/ani294/UI_HTML_CSS_Project-2/blob/main/2.png
 [project-url]: https://coderx-ui-projects-2.netlify.app

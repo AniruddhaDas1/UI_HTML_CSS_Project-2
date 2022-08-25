@@ -1,5 +1,3 @@
-#Project 2 Repositories
-
 <div id="top"></div>
 
 <!-- Social Links -->
@@ -19,7 +17,7 @@
   </a>
     <a href=# align"center">
         <img src="https://ineuron.ai/images/ineuron-logo.png" alt="2nd logo" width="80">
-<h3 align="center">Project 1</h3>
+<h3 align="center">Project 2</h3>
 <!-- *** Change Here Live Link   -->
   <p align="center">
     <br />
@@ -49,7 +47,7 @@
 
 <!-- *** Change Here Blog Image  -->
 
-![Project 1: uiproject-1](https://github.com/ani294/UI_HTML_CSS_Project-2/blob/main/2.png)
+![Project 2: uiproject-2](https://github.com/ani294/UI_HTML_CSS_Project-2/blob/main/2.png)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
